@@ -1,0 +1,3 @@
+# DCIT308-INDIVIDUAL-PROJECT_10892327
+An inventory management system that makes use of numerous data structures, searching algorithms, and sorting strategies. By using fundamental data structures such as lists, stacks, arrays, queues, trees, sets, maps, hashmaps, hash tables, and graphs, the inventory management system attempts to enable effective data storage, retrieval, and manipulation. Additionally, it features sorting algorithms for alphabetizing objects and searching algorithms for locating specific items inside the database.
+The purpose of the inventory management system is to serve customers efficiently by giving the right total amount of purchased goods.
